@@ -1,4 +1,5 @@
 // Zadanie 2
+// Napisz program, który wyświetla liczbę dni miesiąca na podstawie jego numeru i numeru roku.
 
 fn main() {
     let miesiac = 2;

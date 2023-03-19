@@ -1,4 +1,5 @@
 // Zadanie 7
+// Napisz program, który wyświetla cyfry danej liczby całkowitej (od końca).
 
 fn main() {
     let number = 12345678;

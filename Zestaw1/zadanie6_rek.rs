@@ -1,4 +1,5 @@
 // Zadanie 6
+// Napisz program, który oblicza silnię dla danej liczby.
 
 fn main() {
     let silnia = silnia_rek(3, 1, 1);

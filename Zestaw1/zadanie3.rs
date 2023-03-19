@@ -1,4 +1,5 @@
 // Zadanie 3
+// Napisz program służący do konwersji wartości temperatury podanej w stopniach Celsjusza na stopnie w skali Fahrenheita
 
 fn main() {
     let celsius = 10.0;

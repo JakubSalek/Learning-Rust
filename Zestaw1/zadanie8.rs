@@ -1,4 +1,5 @@
 // Zadanie 8
+// Napisz program, który oblicza sumę cyfry danej liczby całkowitej.
 
 fn main() {
     let number = 11;

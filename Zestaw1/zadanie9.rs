@@ -1,4 +1,6 @@
 // Zadanie 9
+// Napisz program, który znajduje wszystkie trójki pitagorejskie o wartościach nie większych niż dana.
+// Zakładamy, że 0 < a < b < c.
 
 fn main() {
     let mut a: i128 = 1;

@@ -1,4 +1,5 @@
 // Zadanie 6
+// Napisz program, który oblicza silnię dla danej liczby.
 
 fn main(){
     let n = 4;

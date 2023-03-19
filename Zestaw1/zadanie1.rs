@@ -1,4 +1,5 @@
 // Zadanie 1
+// Napisz program, który wyświetla informację o przestępności danego roku.
 
 fn main() {
     let rok = 400;
